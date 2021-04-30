@@ -1,7 +1,7 @@
 # Programming Challenges
 
 # Desafios
->[100DaysOfCode](https://github.com/giselemanuel/programming-challenges/tree/main/100DayOfDays)
+>[100DaysOfCode](https://github.com/giselemanuel/programming-challenges/tree/main/100DaysOfDays)
 
 >[MovileCodeChallenge](https://github.com/giselemanuel/programming-challenges/tree/main/Movile-Code-Challenge)
 
