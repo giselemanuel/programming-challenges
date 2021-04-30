@@ -1,13 +1,13 @@
 # Programming Challenges
 
 # Desafios
->[100DaysOfCode](https://github.com/giselemanuel/programming-challenges/tree/main/100DaysOfCode)
+>[100DaysOfCode](https://github.com/giselemanuel/programming-challenges/tree/main/100DayOfDays)
 
->[MovileCodeChallenge](https://github.com/giselemanuel/programming-challenges/tree/main/MovileCodeChallenge)
+>[MovileCodeChallenge](https://github.com/giselemanuel/programming-challenges/tree/main/Movile-Code-Challenge)
 
->[Plataforma CodeWars](https://github.com/giselemanuel/programming-challenges/tree/main/Plataforma%20CodeWars)
+>[Plataforma CodeWars](https://github.com/giselemanuel/programming-challenges/tree/main/Plataforma-CodeWars)
 
->[Plataforma Hackerrank](https://github.com/giselemanuel/programming-challenges/tree/main/Plataforma%20Hackerrank)
+>[Plataforma Hackerrank](https://github.com/giselemanuel/programming-challenges/tree/main/Plataforma-Hackerrank)
 
->[Meu Curso em Video](https://github.com/giselemanuel/programming-challenges/tree/main/Meu%20Curso%20em%20Video)
+>[Meu Curso em Video](https://github.com/giselemanuel/programming-challenges/tree/main/Meu-Curso-em-Video)
 
