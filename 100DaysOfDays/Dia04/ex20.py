@@ -16,5 +16,3 @@ for a in range(1, 5):
     turma.append(nome)
 shuffle(turma)
 print(f"--\nOrdem de apresentação é: {turma}")
-
-
