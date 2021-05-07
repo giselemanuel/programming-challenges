@@ -25,3 +25,5 @@ print("LOWER", nome.lower())
 print("Capitalize", nome.capitalize())
 print("Title", nome.title())
 print("Strip", nome.strip())
+print(nome[:2])  # exibe n caracter
+print(nome[1:])  # remove n caracter do inicio
