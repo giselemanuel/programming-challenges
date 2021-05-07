@@ -7,3 +7,15 @@ O programa deverá escrever na tela se o usuário venceu ou perdeu.
 print('-' * 60)
 print(f'{"Jogo da Adivinhação":^60}')
 print('-' * 60)
+
+from random import  randint
+
+numero_sorteio = randint(0, 5)
+numero = int(input("Estou pensando em um número tente adivinhar.\n"
+                   "Insira um número entre 0 a 5: "))
+
+if(numero == numero_sorteio):
+    print("VOCÊ ACERTOU !!!")
+else:
+    print("VOCÊ ERROU !!!")
+
